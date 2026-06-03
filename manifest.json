@@ -1,0 +1,10 @@
+{
+	"id": "lazy-cursor",
+	"name": "Lazy Cursor",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Hides the cursor when opening a note until you tap/click the editor. Mobile supported.",
+	"author": "Timo Bechtel (modified by Reasonix)",
+	"authorUrl": "https://github.com/TimoBechtel/obsidian-lazy-cursor",
+	"isDesktopOnly": false
+}
