@@ -5,9 +5,6 @@
 <a id="english"></a>
 # Lazy Cursor — Mobile Edition
 
-> Forked from the original plugin by Timo Bechtel (MIT)  
-> Repository: [agarcabin/obsidian-lazy-cursor](https://github.com/agarcabin/obsidian-lazy-cursor)
-
 When you open a note in Obsidian, the cursor is **automatically blurred** — no blinking caret on the first line. Tap (mobile) or click (desktop) to start typing. **That's it.**
 
 ## ✨ Why this over [cursor-goaway](https://github.com/liuxingyu521/obsidian-plugin-cursor-goaway)?
@@ -62,23 +59,23 @@ file-open  →  requestAnimationFrame  →  editor.blur()
 2. Place in `<vault>/.obsidian/plugins/lazy-cursor/`
 3. Enable in Settings → Community plugins
 
-### BRAT
-```
-agarcabin/obsidian-lazy-cursor
-```
-Or from [GitHub Releases](https://github.com/agarcabin/obsidian-lazy-cursor/releases)
-
 ## 📄 License
 
-MIT — © 2023 Timo Bechtel. Modifications © 2025 Reasonix.
+MIT License
+
+Copyright (c) 2023 Timo Bechtel
+Copyright (c) 2025 Reasonix
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
 <a id="中文"></a>
 # Lazy Cursor — 移动版
-
-> Fork 自 Timo Bechtel 的原版插件 (MIT)  
-> 仓库：[agarcabin/obsidian-lazy-cursor](https://github.com/agarcabin/obsidian-lazy-cursor)
 
 打开 Obsidian 笔记时，光标**自动失焦**——第一行不再有闪烁的光标干扰阅读。点击编辑器即可开始输入。**就这么简单。**
 
@@ -134,12 +131,15 @@ file-open  →  requestAnimationFrame  →  editor.blur()
 2. 放入 `<vault>/.obsidian/plugins/lazy-cursor/`
 3. 在设置 → 第三方插件中启用
 
-### BRAT 安装
-```
-agarcabin/obsidian-lazy-cursor
-```
-或从 [GitHub Releases](https://github.com/agarcabin/obsidian-lazy-cursor/releases) 下载
-
 ## 📄 许可证
 
-MIT — © 2023 Timo Bechtel。修改 © 2025 Reasonix。
+MIT 许可证
+
+版权所有 (c) 2023 Timo Bechtel
+版权所有 (c) 2025 Reasonix
+
+特此免费授予任何获得本软件及相关文档文件（"软件"）副本的人不受限制地处理本软件的权利，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售本软件副本的权利，以及允许获得本软件的人这样做，但须符合以下条件：
+
+上述版权声明和本许可声明应包含在本软件的所有副本或主要部分中。
+
+本软件按"原样"提供，不提供任何形式的明示或暗示担保，包括但不限于对适销性、特定用途适用性和非侵权的担保。在任何情况下，作者或版权持有人均不对因本软件或本软件的使用或其他交易而产生的任何索赔、损害赔偿或其他责任承担责任，无论是合同诉讼、侵权行为还是其他。
