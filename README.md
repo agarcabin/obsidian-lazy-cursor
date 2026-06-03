@@ -5,7 +5,7 @@
 <a id="english"></a>
 # Lazy Cursor — Mobile Edition
 
-> Forked from TimoBechtel/obsidian-lazy-cursor (MIT)  
+> Forked from the original plugin by Timo Bechtel (MIT)  
 > Repository: [agarcabin/obsidian-lazy-cursor](https://github.com/agarcabin/obsidian-lazy-cursor)
 
 When you open a note in Obsidian, the cursor is **automatically blurred** — no blinking caret on the first line. Tap (mobile) or click (desktop) to start typing. **That's it.**
@@ -77,7 +77,7 @@ MIT — © 2023 Timo Bechtel. Modifications © 2025 Reasonix.
 <a id="中文"></a>
 # Lazy Cursor — 移动版
 
-> Fork 自 TimoBechtel/obsidian-lazy-cursor (MIT)  
+> Fork 自 Timo Bechtel 的原版插件 (MIT)  
 > 仓库：[agarcabin/obsidian-lazy-cursor](https://github.com/agarcabin/obsidian-lazy-cursor)
 
 打开 Obsidian 笔记时，光标**自动失焦**——第一行不再有闪烁的光标干扰阅读。点击编辑器即可开始输入。**就这么简单。**
